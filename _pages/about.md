@@ -16,14 +16,6 @@ Feel free to contact me at cindywang[at]cornell.edu
 
 **B.S. in Environmental Earth Systems Science**, Macaulay Honors College at City College of New York, 2019
 
-## Awards & Recognition
-
-**Exemplar Mentor Award**, McGraw Center for Teaching and Learning, Princeton University, 2024
-
-**Best Student Presentation and Poster Award**, 16th Symposium on Aerosol–Cloud–Climate Interactions, American Meteorological Society, 2024
-
-**Outstanding Student Presentation Award**, Global Environmental Change Section, American Geophysical Union Fall Meeting, 2023
-
 ## Publications
 
 **Wang, C.**, Visioni, D., Lee, W. R., Duffey, A., Wentland, C. R., Wheeler, L., Wagman, B., Turbeville, S., Watanabe, S., & Henry, M.  
@@ -57,6 +49,14 @@ Takahashi, H., Lebsock, M., Luo, Z. J., Masunaga, H., & **Wang, C.** “Detectio
 - "Sea Surface Temperature Dependence of Sea Salt Emissions – Physical Explanation and Implications for Sea-Salt-Mediated Climate Feedback." Presented at American Geophysical Union Fall Meeting, New Orleans, LA, 2021. Poster.
 
 - "Production of a Globally Uniform ISCCP Convection Tracking Dataset and Preliminary Analysis Results." Presented at American Geophysical Union Fall Meeting, Washington, DC, 2018. Poster.
+
+## Awards & Recognition
+
+**Exemplar Mentor Award**, McGraw Center for Teaching and Learning, Princeton University, 2024
+
+**Best Student Presentation and Poster Award**, 16th Symposium on Aerosol–Cloud–Climate Interactions, American Meteorological Society, 2024
+
+**Outstanding Student Presentation Award**, Global Environmental Change Section, American Geophysical Union Fall Meeting, 2023
 
 ## Teaching
 
