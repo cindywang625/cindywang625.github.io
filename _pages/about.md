@@ -11,7 +11,7 @@ Feel free to contact me at cindywang[at]cornell.edu
 ## Education
 
 **Ph.D., Atmospheric & Oceanic Sciences**  
-Princeton University, 2024
+Princeton University, 2025
 
 **M.A., Atmospheric & Oceanic Sciences**  
 Princeton University, 2021
