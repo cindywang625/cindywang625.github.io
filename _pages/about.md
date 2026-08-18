@@ -4,7 +4,7 @@ title: "Cindy Wang"
 author_profile: true
 ---
 
-I am a Postdoctoral Research Associate at Cornell University. I received my Ph.D. in the Atmospheric & Oceanic Sciences (AOS) program at Princeton University in 2025. My work uses global climate and atmospheric chemistry models to understand how aerosols interact with clouds, circulation, atmospheric chemistry, and the climate system. I am interested in understanding the many ways aerosols influence the climate, especially when utilized for climate geoengineering. I have a background in art and enjoy sharing my artistic work inspired by my scientific pursuits!
+I am a Postdoctoral Research Associate with the [Cornell Engineering Climate Initiative](https://climate-engineering.mae.cornell.edu/) at Cornell University. I received my Ph.D. in Atmospheric & Oceanic Sciences from the [Program in Atmospheric and Oceanic Sciences](https://aos.princeton.edu/) at Princeton University in 2025. My work uses global climate and atmospheric chemistry models to understand how aerosols interact with clouds, circulation, atmospheric chemistry, and the climate system. I am interested in understanding the many ways aerosols influence the climate, especially when utilized for climate geoengineering. I have a background in art and enjoy sharing my artistic work inspired by my scientific pursuits!
 
 Feel free to contact me at cindywang[at]cornell.edu
 
@@ -49,13 +49,13 @@ Takahashi, H., Lebsock, M., Luo, Z. J., Masunaga, H., & **Wang, C.**
 
 ## Talks & Presentations
 
-- "Air quality impacts of Stratospheric Aerosol Injections are small and mainly driven by changes in climate, not deposition." Presented at Composition Air quality Climate inTeractions Initiative (CACTI), Exeter, United Kingdom, 2025. Oral presentation.
+- "Air quality impacts of Stratospheric Aerosol Injections are small and mainly driven by changes in climate, not deposition." Presented at [Composition Air quality Climate inTeractions Initiative (CACTI)](https://igacproject.org/events/composition-air-quality-climate-interactions-initiative-cacti-emissions-response), Exeter, United Kingdom, 2025. Oral presentation.
 
 - "The Nonlocal Effects of Sea Salt Aerosol Engineering in the GFDL Coupled Model." Presented at American Meteorological Society Annual Meeting, Baltimore, MD, 2024. Oral presentation.
 
 - "The Nonlocal Effects of Sea Salt Aerosol Engineering in the GFDL Coupled Model." Presented at American Geophysical Union Fall Meeting, San Francisco, CA, 2023. Oral presentation.
 
-- "The Nonlocal Effects of Sea Salt Aerosol Engineering in the GFDL Coupled Model." Presented at Graduate Student Climate Conference, Woods Hole, MA, 2023. Oral presentation.
+- "The Nonlocal Effects of Sea Salt Aerosol Engineering in the GFDL Coupled Model." Presented at [Graduate Student Climate Conference](https://graduateclimateconference.github.io/), Woods Hole, MA, 2023. Oral presentation.
 
 - "Sea Surface Temperature Dependence of Sea Salt Emissions – Physical Explanation and Implications for Sea-Salt-Mediated Climate Feedback." Presented at the Environmental & Atmospheric Sciences Seminar, City College of New York, 2022. Oral presentation.
 
@@ -66,8 +66,8 @@ Takahashi, H., Lebsock, M., Luo, Z. J., Masunaga, H., & **Wang, C.**
 ## Teaching
 
 **Teaching Assistant at Princeton University, Princeton, NJ for Professor Daniel Sigman 09/2024-12/2024
-- Taught and led the weekly lab component of the course: “GEOS 102- Climate — Past, Present, and Future”
+- Taught and led the [lab component](https://registrar.princeton.edu/course-offerings/course-details?term=1222&courseid=011153) of the course: [“GEOS 102- Climate — Past, Present, and Future”](https://registrar.princeton.edu/course-offerings/course-details?term=1222&courseid=011152)
 
 **Teaching Assistant at Princeton University, Princeton, NJ for Professor Rob Socolow 08/2021-12/2021
-- Assisted in logistics, organizing and assigning coursework for the freshmen seminar FRS 151: “Time Capsules for Climate Change, to be Opened at Your Reunions”.
+- Assisted in logistics, organizing and assigning coursework for the freshmen seminar FRS 151: [“Time Capsules for Climate Change, to be Opened at Your Reunions”](https://paw.princeton.edu/article/looking-future-students-create-time-capsules-predicting-climate-change-impacts).
 - Led a class unit on “Clouds, Climate and Climate Change”
