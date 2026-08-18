@@ -10,14 +10,11 @@ Feel free to contact me at cindywang[at]cornell.edu
 
 ## Education
 
-**Ph.D., Atmospheric & Oceanic Sciences**  
-Princeton University, 2025
+**Ph.D. in Atmospheric & Oceanic Sciences**, Princeton University, 2025
 
-**M.A., Atmospheric & Oceanic Sciences**  
-Princeton University, 2021
+**M.A. in Atmospheric & Oceanic Sciences**, Princeton University, 2021
 
-**B.S., Environmental Earth Systems Science**  
-Macaulay Honors College at City College of New York, 2019
+**B.S. in Environmental Earth Systems Science**, Macaulay Honors College at City College of New York, 2019
 
 ## Awards & Recognition
 
