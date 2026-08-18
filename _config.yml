@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cindy Wang"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Cindy Wang"
 description              : &description "personal description"
