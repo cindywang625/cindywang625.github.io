@@ -4,7 +4,7 @@ title: "Cindy Wang"
 author_profile: true
 ---
 
-I am a Postdoctoral Research Associate with the [Cornell Engineering Climate Initiative](https://climate-engineering.mae.cornell.edu/) at Cornell University. I received my Ph.D. in Atmospheric & Oceanic Sciences from the [Program in Atmospheric and Oceanic Sciences](https://aos.princeton.edu/) at Princeton University in 2025. My work uses global climate and atmospheric chemistry models to understand how aerosols interact with clouds, circulation, atmospheric chemistry, and the climate system. I am interested in understanding the many ways aerosols influence the climate, especially when utilized for climate geoengineering. I have a background in art and enjoy sharing my artistic work inspired by my scientific pursuits!
+I am a Postdoctoral Research Associate with the [Cornell Engineering Climate Initiative](https://climate-engineering.mae.cornell.edu/) at Cornell University. I received my Ph.D. in Atmospheric & Oceanic Sciences from the [Program in Atmospheric and Oceanic Sciences](https://aos.princeton.edu/) at Princeton University in 2025. My work uses global climate and atmospheric chemistry models to understand how aerosols interact with clouds, circulation, atmospheric chemistry, and the climate system. My research broadly examines interactions between atmospheric aerosols, clouds, chemistry, and climate, with an emphasis on understanding the Earth-system consequences of climate intervention strategies.
 
 Feel free to contact me at cindywang[at]cornell.edu
 
@@ -18,6 +18,14 @@ Princeton University, 2021
 
 **B.S., Environmental Earth Systems Science**  
 Macaulay Honors College at City College of New York, 2019
+
+## Awards & Recognition
+
+**Exemplar Mentor Award**, McGraw Center for Teaching and Learning, Princeton University, 2024
+
+**Best Student Presentation and Poster Award**, 16th Symposium on Aerosol–Cloud–Climate Interactions, American Meteorological Society, 2024
+
+**Outstanding Student Presentation Award**, Global Environmental Change Section, American Geophysical Union Fall Meeting, 2023
 
 ## Publications
 
