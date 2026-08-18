@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Cindy Wang"
+title: ""
 author_profile: true
 ---
 
