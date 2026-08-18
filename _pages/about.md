@@ -49,26 +49,25 @@ Takahashi, H., Lebsock, M., Luo, Z. J., Masunaga, H., & **Wang, C.**
 
 ## Talks & Presentations
 
-**Air quality impacts of Stratospheric Aerosol Injections are small and mainly driven by changes in climate, not deposition**  
-Composition Air quality Climate inTeractions Initiative (CACTI), Exeter, United Kingdom, 2025. Oral presentation.
+- "Air quality impacts of Stratospheric Aerosol Injections are small and mainly driven by changes in climate, not deposition." Presented at Composition Air quality Climate inTeractions Initiative (CACTI), Exeter, United Kingdom, 2025. Oral presentation.
 
-**The Nonlocal Effects of Sea Salt Aerosol Engineering in the GFDL Coupled Model**  
-American Meteorological Society Annual Meeting, Baltimore, MD, 2024. Oral presentation.
+- "The Nonlocal Effects of Sea Salt Aerosol Engineering in the GFDL Coupled Model." Presented at American Meteorological Society Annual Meeting, Baltimore, MD, 2024. Oral presentation.
 
-**The Nonlocal Effects of Sea Salt Aerosol Engineering in the GFDL Coupled Model**  
-American Geophysical Union Fall Meeting, San Francisco, CA, 2023. Oral presentation.
+- "The Nonlocal Effects of Sea Salt Aerosol Engineering in the GFDL Coupled Model." Presented at American Geophysical Union Fall Meeting, San Francisco, CA, 2023. Oral presentation.
 
-**The Nonlocal Effects of Sea Salt Aerosol Engineering in the GFDL Coupled Model**  
-Graduate Student Climate Conference, Woods Hole, MA, 2023. Oral presentation.
+- "The Nonlocal Effects of Sea Salt Aerosol Engineering in the GFDL Coupled Model." Presented at Graduate Student Climate Conference, Woods Hole, MA, 2023. Oral presentation.
 
-**Sea Surface Temperature Dependence of Sea Salt Emissions – Physical Explanation and Implications for Sea-Salt-Mediated Climate Feedback**  
-Environmental & Atmospheric Sciences Seminar, City College of New York, 2022. Oral presentation.
+- "Sea Surface Temperature Dependence of Sea Salt Emissions – Physical Explanation and Implications for Sea-Salt-Mediated Climate Feedback." Presented at the Environmental & Atmospheric Sciences Seminar, City College of New York, 2022. Oral presentation.
 
-**Sea Surface Temperature Dependence of Sea Salt Emissions – Physical Explanation and Implications for Sea-Salt-Mediated Climate Feedback**  
-American Geophysical Union Fall Meeting, New Orleans, LA, 2021. Poster.
+- "Sea Surface Temperature Dependence of Sea Salt Emissions – Physical Explanation and Implications for Sea-Salt-Mediated Climate Feedback." Presented at American Geophysical Union Fall Meeting, New Orleans, LA, 2021. Poster.
 
-**Detection and Tracking of Convective Storms Based on Globally Gridded Precipitation Measurements**  
-American Geophysical Union Fall Meeting, 2020. Poster.
+- "Production of a Globally Uniform ISCCP Convection Tracking Dataset and Preliminary Analysis Results." Presented at American Geophysical Union Fall Meeting, Washington, DC, 2018. Poster.
 
-**Production of a Globally Uniform ISCCP Convection Tracking Dataset and Preliminary Analysis Results**  
-American Geophysical Union Fall Meeting, Washington, DC, 2018. Poster.
+## Teaching
+
+**Teaching Assistant at Princeton University, Princeton, NJ for Professor Daniel Sigman 09/2024-12/2024
+- Taught and led the weekly lab component of the course: “GEOS 102- Climate — Past, Present, and Future”
+
+**Teaching Assistant at Princeton University, Princeton, NJ for Professor Rob Socolow 08/2021-12/2021
+- Assisted in logistics, organizing and assigning coursework for the freshmen seminar FRS 151: “Time Capsules for Climate Change, to be Opened at Your Reunions”.
+- Led a class unit on “Clouds, Climate and Climate Change”
