@@ -73,9 +73,6 @@ Takahashi, H., Lebsock, M., Luo, Z. J., Masunaga, H., & **Wang, C.**
 
 ## Teaching
 
-**Teaching Assistant at Princeton University, Princeton, NJ for Professor Daniel Sigman 09/2024-12/2024
-- Taught and led the [lab component](https://registrar.princeton.edu/course-offerings/course-details?term=1222&courseid=011153) of the course: [“GEOS 102- Climate — Past, Present, and Future”](https://registrar.princeton.edu/course-offerings/course-details?term=1222&courseid=011152)
+- Teaching Assistant at Princeton University, Princeton, NJ for Professor Daniel Sigman 09/2024-12/2024. Taught and led the [lab component](https://registrar.princeton.edu/course-offerings/course-details?term=1222&courseid=011153) of the course: [“GEOS 102- Climate — Past, Present, and Future”](https://registrar.princeton.edu/course-offerings/course-details?term=1222&courseid=011152)
 
-**Teaching Assistant at Princeton University, Princeton, NJ for Professor Rob Socolow 08/2021-12/2021
-- Assisted in logistics, organizing and assigning coursework for the freshmen seminar FRS 151: [“Time Capsules for Climate Change, to be Opened at Your Reunions”](https://paw.princeton.edu/article/looking-future-students-create-time-capsules-predicting-climate-change-impacts).
-- Led a class unit on “Clouds, Climate and Climate Change”
+- Teaching Assistant at Princeton University, Princeton, NJ for Professor Rob Socolow 08/2021-12/2021. Assisted in logistics, organizing and assigning coursework for the freshmen seminar FRS 151: [“Time Capsules for Climate Change, to be Opened at Your Reunions”](https://paw.princeton.edu/article/looking-future-students-create-time-capsules-predicting-climate-change-impacts). Led a class unit on “Clouds, Climate and Climate Change”
