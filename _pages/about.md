@@ -24,7 +24,7 @@ Feel free to contact me at cindywang[at]cornell.edu
 
 **Wang, C.**, Donner, L., Mahfouz, N. G. A., & Wang, C. “Radiative Feedbacks to Sea Salt Aerosol Engineering in a GFDL Coupled Model.” *Journal of Geophysical Research: Atmospheres*. Under review.
 
-Visioni, D., Robock, A., Duffey, A., Henry, M., Hirasawa, H., Lee, W. R., **Wang, C.**, Roberts, K., Watanabe, S., Reboita, M. S., & Sugiyama, M. “The Geoengineering Model Intercomparison Project (GeoMIP) contribution to CMIP7—description of new experimental protocols and preliminary results.” *EGUsphere*. Under review.
+Visioni, D., Robock, A., Duffey, A., Henry, M., Hirasawa, H., Lee, W. R., **Wang, C.**, Roberts, K., Watanabe, S., Reboita, M. S., & Sugiyama, M. “[The Geoengineering Model Intercomparison Project (GeoMIP) contribution to CMIP7—description of new experimental protocols and preliminary results.](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-2417/)” *EGUsphere*. Under review.
 
 **Wang, C.**, Donner, L., & Mahfouz, N. G. A. “Wind-Driven Circulation Feedbacks Offset Tropical Geoengineered Sea Salt Emissions.” *Journal of Geophysical Research: Atmospheres*. In production, 2026.
 
