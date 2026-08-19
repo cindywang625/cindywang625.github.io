@@ -398,12 +398,19 @@
   text-transform: uppercase;
 }
 
+/* Art gallery
+   ========================================================================== */
+
 .art-gallery {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 14px;
   margin-top: 1.25em;
   margin-bottom: 2em;
+}
+
+.art-gallery a {
+  display: block;
 }
 
 .art-gallery img {
