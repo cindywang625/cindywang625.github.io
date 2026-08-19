@@ -61,3 +61,13 @@ Takahashi, H., Lebsock, M., Luo, Z. J., Masunaga, H., & **Wang, C.** “Detectio
 - Teaching Assistant at Princeton University, Princeton, NJ for Professor Daniel Sigman for Fall semester 2024. Taught and led the [lab component](https://registrar.princeton.edu/course-offerings/course-details?term=1252&courseid=011153) of the course: [“GEOS 102- Climate — Past, Present, and Future”](https://registrar.princeton.edu/course-offerings/course-details?term=1252&courseid=011152)
 
 - Teaching Assistant at Princeton University, Princeton, NJ for Professor Rob Socolow for Fall semester 2021. Assisted in logistics, organizing and assigning coursework for the freshmen seminar FRS 151: [“Time Capsules for Climate Change, to be Opened at Your Reunions”](https://paw.princeton.edu/article/looking-future-students-create-time-capsules-predicting-climate-change-impacts). Led a class unit on “Clouds, Climate and Climate Change”
+
+## Art
+
+Outside of research, I have a background in art and enjoy creating work inspired by science, climate, and the natural world. A small selection of my work is shown below.
+
+<div class="art-gallery">
+  <img src="/images/art-01.jpg" alt="Artwork by Cindy Wang">
+  <img src="/images/art-02.jpg" alt="Artwork by Cindy Wang">
+  <img src="/images/art-03.jpg" alt="Artwork by Cindy Wang">
+</div>
