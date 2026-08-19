@@ -50,11 +50,11 @@ Takahashi, H., Lebsock, M., Luo, Z. J., Masunaga, H., & **Wang, C.** “Detectio
 
 ## Awards & Recognition
 
--- **[Exemplar Mentor Award](https://mcgraw.princeton.edu/news/mcgraw-center-teaching-and-learning-host-inaugural-centering-mentoring-summit)**, McGraw Center for Teaching and Learning, Princeton University, 2024
+-- [Exemplar Mentor Award](https://mcgraw.princeton.edu/news/mcgraw-center-teaching-and-learning-host-inaugural-centering-mentoring-summit), McGraw Center for Teaching and Learning, Princeton University, 2024
 
--- **Best Student Presentation and Poster Award**, 16th Symposium on Aerosol–Cloud–Climate Interactions, American Meteorological Society, 2024
+-- Best Student Presentation and Poster Award, 16th Symposium on Aerosol–Cloud–Climate Interactions, American Meteorological Society, 2024
 
--- **[Outstanding Student Presentation Award](https://www.agu.org/honors/ospa/past-recipients)**, Global Environmental Change Section, American Geophysical Union Fall Meeting, 2023
+-- [Outstanding Student Presentation Award](https://www.agu.org/honors/ospa/past-recipients), Global Environmental Change Section, American Geophysical Union Fall Meeting, 2023
 
 ## Teaching
 
