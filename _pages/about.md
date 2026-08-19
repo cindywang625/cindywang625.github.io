@@ -60,7 +60,6 @@ Takahashi, H., Lebsock, M., Luo, Z. J., Masunaga, H., & **Wang, C.** “Detectio
 
 - Teaching Assistant at Princeton University, Princeton, NJ for Professor Rob Socolow for Fall semester 2021. Assisted in logistics, organizing and assigning coursework for the freshmen seminar FRS 151: [“Time Capsules for Climate Change, to be Opened at Your Reunions”](https://paw.princeton.edu/article/looking-future-students-create-time-capsules-predicting-climate-change-impacts). Led a class unit on “Clouds, Climate and Climate Change”
 
-## Art
 
 ## Art
 
