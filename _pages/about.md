@@ -18,9 +18,7 @@ Feel free to contact me at cindywang[at]cornell.edu
 
 ## Publications
 
-**Wang, C.**, Visioni, D., Lee, W. R., Duffey, A., Wentland, C. R., Wheeler, L., Wagman, B., Turbeville, S., Watanabe, S., & Henry, M.  
-“Quantifying the effectiveness of multiple SAI strategies across different dimensions.”  
-*Earth's Future*. Under review.
+**Wang, C.**, Visioni, D., Lee, W. R., Duffey, A., Wentland, C. R., Wheeler, L., Wagman, B., Turbeville, S., Watanabe, S., & Henry, M. “Quantifying the effectiveness of multiple SAI strategies across different dimensions.” *Earth's Future*. Under review.
 
 **Wang, C.**, Donner, L., Mahfouz, N. G. A., & Wang, C. “Radiative Feedbacks to Sea Salt Aerosol Engineering in a GFDL Coupled Model.” *Journal of Geophysical Research: Atmospheres*. Under review.
 
