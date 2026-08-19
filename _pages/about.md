@@ -64,10 +64,20 @@ Takahashi, H., Lebsock, M., Luo, Z. J., Masunaga, H., & **Wang, C.** “Detectio
 
 ## Art
 
+## Art
+
 Outside of research, I have a background in art and enjoy creating work inspired by science, climate, and the natural world. A small selection of my work is shown below.
 
 <div class="art-gallery">
-  <img src="/images/art-01.jpg" alt="Artwork by Cindy Wang">
-  <img src="/images/art-02.jpg" alt="Artwork by Cindy Wang">
-  <img src="/images/art-03.jpg" alt="Artwork by Cindy Wang">
+  <a href="/images/art-01.jpg">
+    <img src="/images/art-01.jpg" alt="Artwork by Cindy Wang">
+  </a>
+
+  <a href="/images/art-02.jpg">
+    <img src="/images/art-02.jpg" alt="Artwork by Cindy Wang">
+  </a>
+
+  <a href="/images/art-03.jpg">
+    <img src="/images/art-03.jpg" alt="Artwork by Cindy Wang">
+  </a>
 </div>
