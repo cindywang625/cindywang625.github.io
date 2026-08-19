@@ -4,7 +4,7 @@ title: ""
 author_profile: true
 ---
 
-I am a Postdoctoral Research Associate with the [Cornell Engineering Climate Initiative](https://climate-engineering.mae.cornell.edu/) at Cornell University. I received my Ph.D. in Atmospheric & Oceanic Sciences from the [Program in Atmospheric and Oceanic Sciences](https://aos.princeton.edu/) at Princeton University in 2025. My work uses global climate and atmospheric chemistry models to understand how aerosols interact with clouds, circulation, atmospheric chemistry, and the climate system. My research broadly examines interactions between atmospheric aerosols, clouds, chemistry, and climate, with an emphasis on understanding the Earth-system consequences of climate intervention strategies.
+I am a Postdoctoral Research Associate with the [Cornell Engineering Climate Initiative](https://climate-engineering.mae.cornell.edu/) at Cornell University. I received my Ph.D. in Atmospheric & Oceanic Sciences from the [Program in Atmospheric and Oceanic Sciences](https://aos.princeton.edu/) at Princeton University in 2025. My work uses global climate and atmospheric chemistry models to examine interactions between atmospheric aerosols, clouds, chemistry, and climate, with an emphasis on understanding the Earth-system consequences of climate intervention strategies.
 
 Feel free to contact me at cindywang[at]cornell.edu
 
@@ -60,6 +60,6 @@ Takahashi, H., Lebsock, M., Luo, Z. J., Masunaga, H., & **Wang, C.** “Detectio
 
 ## Teaching
 
-- Teaching Assistant at Princeton University, Princeton, NJ for Professor Daniel Sigman 09/2024-12/2024. Taught and led the [lab component](https://registrar.princeton.edu/course-offerings/course-details?term=1222&courseid=011153) of the course: [“GEOS 102- Climate — Past, Present, and Future”](https://registrar.princeton.edu/course-offerings/course-details?term=1222&courseid=011152)
+- Teaching Assistant at Princeton University, Princeton, NJ for Professor Daniel Sigman for Fall semester 2024. Taught and led the [lab component](https://registrar.princeton.edu/course-offerings/course-details?term=1252&courseid=011153) of the course: [“GEOS 102- Climate — Past, Present, and Future”](https://registrar.princeton.edu/course-offerings/course-details?term=1252&courseid=011152)
 
-- Teaching Assistant at Princeton University, Princeton, NJ for Professor Rob Socolow 08/2021-12/2021. Assisted in logistics, organizing and assigning coursework for the freshmen seminar FRS 151: [“Time Capsules for Climate Change, to be Opened at Your Reunions”](https://paw.princeton.edu/article/looking-future-students-create-time-capsules-predicting-climate-change-impacts). Led a class unit on “Clouds, Climate and Climate Change”
+- Teaching Assistant at Princeton University, Princeton, NJ for Professor Rob Socolow for Fall semester 2021. Assisted in logistics, organizing and assigning coursework for the freshmen seminar FRS 151: [“Time Capsules for Climate Change, to be Opened at Your Reunions”](https://paw.princeton.edu/article/looking-future-students-create-time-capsules-predicting-climate-change-impacts). Led a class unit on “Clouds, Climate and Climate Change”
