@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : ""
 title_separator          : ""
 name                     : &name "Cindy Wang"
-description              : &description "personal description"
+description              : "Cindy Wang — atmospheric scientist studying aerosols, climate intervention, atmospheric chemistry, and climate."
 url                      : https://cindywang625.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cindywang625/cindywang625.github.io"
@@ -176,14 +176,11 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
-    permalink: /:collection/:path/
+    output: false
   publications:
-    output: true
-    permalink: /:collection/:path/
+    output: false
   talks:
-    output: true
-    permalink: /:collection/:path/
+    output: false
 
 
 # Defaults
