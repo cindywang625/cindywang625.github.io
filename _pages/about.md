@@ -20,7 +20,7 @@ Feel free to contact me at cindywang[at]cornell.edu
 
 **Wang, C.**, Visioni, D., Clark, B., Labe, Z. M., Jong, Bor-ting. "Uncertainty in Regional Monsoon Responses to Solar Radiation Modification Is Greater Across Models Than Across Strategies." In prep.
 
-**Wang, C.**, Visioni, D., Lee, W. R., Duffey, A., Wentland, C. R., Wheeler, L., Wagman, B., Turbeville, S., Watanabe, S., & Henry, M. “Quantifying the effectiveness of multiple SAI strategies across different dimensions.” *Earth's Future*. Under review.
+**Wang, C.**, Visioni, D., Lee, W. R., Duffey, A., Wentland, C. R., Wheeler, L., Wagman, B., Turbeville, S., Watanabe, S., & Henry, M. “[Quantifying the effectiveness of multiple SAI strategies across different dimensions.](https://essopenarchive.org/doi/full/10.22541/essoar.15002441/v1)” *Earth's Future*. Under review.
 
 **Wang, C.**, Donner, L., Mahfouz, N. G. A., & Wang, C. “Radiative Feedbacks to Sea Salt Aerosol Engineering in a GFDL Coupled Model.” *Journal of Geophysical Research: Atmospheres*. Under review.
 
@@ -46,15 +46,15 @@ Takahashi, H., Lebsock, M., Luo, Z. J., Masunaga, H., & **Wang, C.** “Detectio
 
 - "Sea Surface Temperature Dependence of Sea Salt Emissions – Physical Explanation and Implications for Sea-Salt-Mediated Climate Feedback." Presented at American Geophysical Union Fall Meeting, New Orleans, LA, 2021. Poster.
 
-- "Production of a Globally Uniform ISCCP Convection Tracking Dataset and Preliminary Analysis Results." Presented at American Geophysical Union Fall Meeting, Washington, DC, 2018. Poster.
+- "[Production of a Globally Uniform ISCCP Convection Tracking Dataset and Preliminary Analysis Results.](https://essopenarchive.org/doi/full/10.1002/essoar.10500132.1)" Presented at American Geophysical Union Fall Meeting, Washington, DC, 2018. Poster.
 
 ## Awards & Recognition
 
-**Exemplar Mentor Award**, McGraw Center for Teaching and Learning, Princeton University, 2024
+**[Exemplar Mentor Award](https://mcgraw.princeton.edu/news/mcgraw-center-teaching-and-learning-host-inaugural-centering-mentoring-summit)**, McGraw Center for Teaching and Learning, Princeton University, 2024
 
 **Best Student Presentation and Poster Award**, 16th Symposium on Aerosol–Cloud–Climate Interactions, American Meteorological Society, 2024
 
-**Outstanding Student Presentation Award**, Global Environmental Change Section, American Geophysical Union Fall Meeting, 2023
+**[Outstanding Student Presentation Award](https://www.agu.org/honors/ospa/past-recipients)**, Global Environmental Change Section, American Geophysical Union Fall Meeting, 2023
 
 ## Teaching
 
