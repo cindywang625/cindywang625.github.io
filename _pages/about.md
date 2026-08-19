@@ -4,7 +4,7 @@ title: ""
 author_profile: true
 ---
 
-I am a Postdoctoral Research Associate with the [Cornell Engineering Climate Initiative](https://climate-engineering.mae.cornell.edu/) at Cornell University. I received my Ph.D. in Atmospheric & Oceanic Sciences from the [Program in Atmospheric and Oceanic Sciences](https://aos.princeton.edu/) at Princeton University in 2025. My work uses global climate and atmospheric chemistry models to examine interactions between atmospheric aerosols, clouds, chemistry, and climate, with an emphasis on understanding the climate and societal impacts of climate intervention strategies.
+I am a Postdoctoral Research Associate with the [Cornell Engineering Climate Initiative](https://climate-engineering.mae.cornell.edu/) at Cornell University. I received my Ph.D. in Atmospheric & Oceanic Sciences from the [Program in Atmospheric and Oceanic Sciences](https://aos.princeton.edu/) at Princeton University in 2025. My work uses global climate and atmospheric chemistry models to examine interactions between atmospheric aerosols, clouds, chemistry, and climate, with an emphasis on understanding the impacts of climate intervention strategies.
 
 Feel free to contact me at cindywang[at]cornell.edu
 
@@ -17,6 +17,8 @@ Feel free to contact me at cindywang[at]cornell.edu
 **B.S. in Environmental Earth Systems Science**, Macaulay Honors College at City College of New York, 2019
 
 ## Publications
+
+**Wang, C.**, Visioni, D., Clark, B., Labe, Z. M., Jong, Bor-ting. "Uncertainty in Regional Monsoon Responses to Solar Radiation Modification Is Greater Across Models Than Across Strategies." In prep.
 
 **Wang, C.**, Visioni, D., Lee, W. R., Duffey, A., Wentland, C. R., Wheeler, L., Wagman, B., Turbeville, S., Watanabe, S., & Henry, M. “Quantifying the effectiveness of multiple SAI strategies across different dimensions.” *Earth's Future*. Under review.
 
