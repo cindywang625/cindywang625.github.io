@@ -26,7 +26,7 @@ Feel free to contact me at cindywang[at]cornell.edu
 
 Visioni, D., Robock, A., Duffey, A., Henry, M., Hirasawa, H., Lee, W. R., **Wang, C.**, Roberts, K., Watanabe, S., Reboita, M. S., & Sugiyama, M. “[The Geoengineering Model Intercomparison Project (GeoMIP) contribution to CMIP7—description of new experimental protocols and preliminary results.](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-2417/)” *EGUsphere*. Under review.
 
-**Wang, C.**, Donner, L., & Mahfouz, N. G. A. “Wind-Driven Circulation Feedbacks Offset Tropical Geoengineered Sea Salt Emissions.” *Journal of Geophysical Research: Atmospheres*. In production, 2026.
+**Wang, C.**, Donner, L. J., & Mahfouz, N. G. A. "Wind-driven circulation feedbacks offset tropical geoengineered sea salt emissions". *Journal of Geophysical Research: Atmospheres*, 131, e2026JD047411, 2026. [https://doi.org/10.1029/2026JD047411](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JD047411)
 
 **Wang, C.**, Visioni, D., Chua, G., & Bednarz, E. M. “Air quality impacts of stratospheric aerosol injections are likely small and mainly driven by changes in climate, not aerosol settling.” *Atmospheric Chemistry and Physics*, 26, 1339–1357, 2026. [doi:10.5194/acp-26-1339-2026](https://doi.org/10.5194/acp-26-1339-2026)
 
