@@ -34,9 +34,9 @@ Feel free to contact me at cindywang[at]cornell.edu
 
 **Wang, C.**, Visioni, D., Clark, B., Labe, Z. M., Jong, Bor-ting. "Uncertainty in Regional Monsoon Responses to Solar Radiation Modification Is Greater Across Models Than Across Strategies." In prep.
 
-**Wang, C.**, Visioni, D., Lee, W. R., Duffey, A., Wentland, C. R., Wheeler, L., Wagman, B., Turbeville, S., Watanabe, S., & Henry, M. “[Quantifying the effectiveness of multiple SAI strategies across different dimensions.](https://essopenarchive.org/doi/full/10.22541/essoar.15002441/v1)” *Earth's Future*. Under review.
-
 **Wang, C.**, Donner, L., Mahfouz, N. G. A., & Wang, C. “Radiative Feedbacks to Sea Salt Aerosol Engineering in a GFDL Coupled Model.” *Journal of Geophysical Research: Atmospheres*. Under review.
+
+**Wang, C.**, Visioni, D., Lee, W. R., Duffey, A., Wentland, C. R., Wheeler, L., Wagman, B., Turbeville, S., Watanabe, S., & Henry, M. “[Quantifying the effectiveness of multiple SAI strategies across different dimensions.](https://essopenarchive.org/doi/full/10.22541/essoar.15002441/v1)” *Earth's Future*. In production.
 
 Visioni, D., Robock, A., Duffey, A., Henry, M., Hirasawa, H., Lee, W. R., **Wang, C.**, Roberts, K., Watanabe, S., Reboita, M. S., & Sugiyama, M. “[The Geoengineering Model Intercomparison Project (GeoMIP) contribution to CMIP7—description of new experimental protocols and preliminary results.](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-2417/)” *EGUsphere*. In production.
 
