@@ -34,6 +34,8 @@ Feel free to contact me at cindywang[at]cornell.edu
 
 **Wang, C.**, Visioni, D., Clark, B., Labe, Z. M., Jong, Bor-ting. "Uncertainty in Regional Monsoon Responses to Solar Radiation Modification Is Greater Across Models Than Across Strategies." In prep.
 
+Hirasawa, H., von Salzen, K., Henry, M., Smith, J., Bender, F. A.-M., **Wang, C.**, Doherty, S., Wood, R., Rasch, P. J., and Haywood, J.: On the Range of Marine Cloud Brightening Radiative Forcing across Earth System Models, EGUsphere [preprint] (https://doi.org/10.5194/egusphere-2026-5460), 2026.
+
 **Wang, C.**, Donner, L., Mahfouz, N. G. A., & Wang, C. “Radiative Feedbacks to Sea Salt Aerosol Engineering in a GFDL Coupled Model.” *Journal of Geophysical Research: Atmospheres*. Under review.
 
 **Wang, C.**, Visioni, D., Lee, W. R., Duffey, A., Wentland, C. R., Wheeler, L., Wagman, B., Turbeville, S., Watanabe, S., & Henry, M. “[Quantifying the effectiveness of multiple SAI strategies across different dimensions.](https://essopenarchive.org/doi/full/10.22541/essoar.15002441/v1)” *Earth's Future*. In production.
