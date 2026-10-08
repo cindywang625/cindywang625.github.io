@@ -38,7 +38,7 @@ Hirasawa, H., von Salzen, K., Henry, M., Smith, J., Bender, F. A.-M., **Wang, C.
 
 **Wang, C.**, Donner, L., Mahfouz, N. G. A., & Wang, C. “Radiative Feedbacks to Sea Salt Aerosol Engineering in a GFDL Coupled Model.” *Journal of Geophysical Research: Atmospheres*. Under review.
 
-**Wang, C.**, Visioni, D., Lee, W. R., Duffey, A., Wentland, C. R., Wheeler, L., Wagman, B., Turbeville, S., Watanabe, S., & Henry, M. "Quantifying the effectiveness of multiple SAI strategies across different dimensions". Earth's Future, 14, 2021. [doi:10.1029/2026EF008696] (https://doi.org/10.1029/2026EF008696)
+**Wang, C.**, Visioni, D., Lee, W. R., Duffey, A., Wentland, C. R., Wheeler, L., Wagman, B., Turbeville, S., Watanabe, S., & Henry, M. "Quantifying the effectiveness of multiple SAI strategies across different dimensions". Earth's Future, 14, 2021. [doi:10.1029/2026EF008696](https://doi.org/10.1029/2026EF008696)
 
 Visioni, D., Robock, A., Duffey, A., Henry, M., Hirasawa, H., Lee, W. R., **Wang, C**., Roberts, K., Watanabe, S., Reboita, M. S., Sugiyama, M., Kravitz, B., Haywood, J., Tilmes, S., Bonou, F. K., Chen, J., Sukhodolov, T., Vattioni, S., J\"orimann, A., Villanueva, D., Vella, R., Farron, P., Bednarz, E., Niemeier, U., Golja, C. and A\~nel, J. A. “The Geoengineering Model Intercomparison Project (GeoMIP) contribution to CMIP7 -- description of new experimental protocols and preliminary results”. *Geoscientific Model Development*, 19, 8469--8499, 2026 [doi:10.5194/gmd-19-8469-2026](https://gmd.copernicus.org/articles/19/8469/2026/)
 
