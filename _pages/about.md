@@ -50,6 +50,10 @@ Takahashi, H., Lebsock, M., Luo, Z. J., Masunaga, H., & **Wang, C.** “Detectio
 
 ## Talks & Presentations
 
+- "Uncertainty in Regional Monsoon Responses to Solar Radiation Modification Is Greater Across Models Than Across Strategies." To be presented at American Geophysical Union Fall Meeting, San Francisco, CA, 2026. Oral Presentation.
+  
+- "Predictability of lower-stratospheric transport from loon balloon observations and LAGRANTO trajectories." To be presented at the Atmospheric and Climate Science Seminar, Cornell University, 2026. Oral Presentation
+
 - "Air quality impacts of Stratospheric Aerosol Injections are small and mainly driven by changes in climate, not deposition." Presented at [Gorden Research Seminar: Bridging the Knowledge Gaps in Climate Engineering with Experiments, Models, and Observations](https://www.grc.org/climate-engineering-grs-conference/2026/), Maine, United States, 2026. Oral presentation.
 
 - "Air quality impacts of Stratospheric Aerosol Injections are small and mainly driven by changes in climate, not deposition." Presented at [Composition Air quality Climate inTeractions Initiative (CACTI)](https://igacproject.org/events/composition-air-quality-climate-interactions-initiative-cacti-emissions-response), Exeter, United Kingdom, 2025. Oral presentation.
