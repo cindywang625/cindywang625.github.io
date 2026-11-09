@@ -31,6 +31,7 @@ Feel free to contact me at cindywang[at]cornell.edu
 **B.S. in Environmental Earth Systems Science**, Macaulay Honors College at City College of New York, 2019
 
 ## Publications
+
 {: reversed="reversed"}
 8. **Wang, C.**, Visioni, D., Clark, B., Labe, Z. M., Jong, Bor-ting. "Uncertainty in Regional Monsoon Responses to Solar Radiation Modification Is Greater Across Models Than Across Strategies." In prep.
 
